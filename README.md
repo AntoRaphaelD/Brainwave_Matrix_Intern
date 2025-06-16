@@ -6,6 +6,7 @@ A professional sales dashboard analyzing **Adidas sales and profit data** from 2
 
 Built using **Power BI**, this dashboard is fully interactive and designed for business decision-makers and data enthusiasts alike.
 
+---
 
 ## ❓ Key Business Questions Answered
 
@@ -40,36 +41,12 @@ This dashboard is built to help answer the following key questions:
 
 ---
 
-## 📂 Repository Contents
-
-| File/Folder                  | Description                                      |
-|------------------------------|--------------------------------------------------|
-| `Adidas_Sales_Dashboard.pbix` | Power BI dashboard file                          |
-| `screenshots/`               | Preview images of the dashboard                  |
-| `README.md`                  | Project description and usage instructions       |
-| `data/` *(optional)*         | Sample dataset (if publicly shareable)           |
-
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Screenshot](screenshots/adidas_dashboard.png)
-
----
-
 ## 🚀 How to View the Dashboard
 
 1. Clone or download this repository.
 2. Open `Adidas_Sales_Dashboard.pbix` in **Power BI Desktop**.
 3. Explore the visuals interactively using the filters.
 4. Press **F11** to enter **Presentation Mode**.
-
----
-
-## 📌 Optional Live Demo / Walkthrough Video
-
-> *(Insert link if you have a hosted demo or video walkthrough)*  
-> 🔗 [Watch Demo](#)
 
 ---
 
